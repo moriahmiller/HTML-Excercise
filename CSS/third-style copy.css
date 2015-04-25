@@ -1,0 +1,23 @@
+body {
+	font-family: sans-serif;
+	font-size: 14pt;
+}
+
+#third-main-image {
+	background-image: url("../images/cops.jpg");
+	width: 731px;
+	height: 1024px;
+
+
+}
+
+#third-main-title {
+	font-size: 3.0em;
+	padding: 10 0 0 20;
+}
+
+.third-body-text {
+padding-left: 14px;
+background-color: #7eb2ff;
+
+}

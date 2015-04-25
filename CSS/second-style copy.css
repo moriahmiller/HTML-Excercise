@@ -1,0 +1,23 @@
+body {
+	font-family: sans-serif;
+	font-size: 14pt;
+}
+
+#main-image {
+	background-image: url("../images/halloween.jpg");
+	width: 240px;
+	height: 160px;
+
+
+}
+
+#main-title {
+	font-size: 3.0em;
+	padding: 10 0 0 20;
+}
+
+.body-text {
+padding-left: 14px;
+background-color: #ff6fcf;
+
+}
